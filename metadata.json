@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Fisiomedi | Saúde, Exames e Especialidades",
+  "description": "Clínica Fisiomedi — atendimento médico, exames, cardiologia, oftalmologia, ortopedia, ginecologia, ultrassom e muito mais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
